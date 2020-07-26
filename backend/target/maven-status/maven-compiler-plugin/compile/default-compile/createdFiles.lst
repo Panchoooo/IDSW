@@ -1,0 +1,4 @@
+com\ayudantia\chat\Controladores\util\MensajeRequest.class
+com\ayudantia\chat\Modelos\Mensaje.class
+com\ayudantia\chat\Repositorios\MensajeRepository.class
+com\ayudantia\chat\Servicios\MensajeService.class
